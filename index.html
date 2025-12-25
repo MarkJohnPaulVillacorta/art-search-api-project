@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Art Search</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- BACKGROUND -->
+  <div class="bg">
+    <div class="blob one"></div>
+    <div class="blob two"></div>
+    <div class="blob three"></div>
+  </div>
+
+  <div class="container">
+
+    <h1>🎨 Art Search</h1>
+
+    <!-- SEARCH -->
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search artworks...">
+      <button id="searchBtn">Search</button>
+      <button id="themeToggle">🌙</button>
+    </div>
+
+    <button class="clear" id="clearBtn">Clear</button>
+
+    <p id="message"></p>
+
+    <!-- SEARCH RESULTS -->
+    <div id="results" class="grid"></div>
+    <button id="loadMore" style="display:none;">Load More</button>
+
+    <!-- FAVORITES -->
+    <section class="favorites-section">
+      <h2>⭐ Favorites</h2>
+      <p class="favorites-note">Your saved artworks</p>
+      <div id="favorites" class="grid"></div>
+    </section>
+
+    <footer class="footer">
+      API Source: Art Institute of Chicago API
+    </footer>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
