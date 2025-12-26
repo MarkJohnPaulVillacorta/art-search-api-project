@@ -1,3 +1,46 @@
+# 🎨 Art Search API App
+
+A web-based Art Search application built with **HTML, CSS, and JavaScript** that uses the **Art Institute of Chicago API** to fetch and display artworks.
+
+This project was created as a **solo requirement for Elective 3 (ELEC3)**.
+
+---
+
+## 👤 Author Information
+
+- **Name:** Mark John Paul Villacorta  
+- **GitHub Username:** MarkJohnPaulVillacorta  
+- **Course:** BS Information Technology  
+- **Subject:** Elective 3  
+- **Project Type:** Solo Project  
+
+---
+
+## ✨ Features
+
+- 🔍 Search artworks by keyword  
+- 🖼️ Display artwork images with title, artist, and date  
+- ⭐ Add artworks to Favorites  
+- ❌ Remove artworks from Favorites  
+- 💾 Favorites saved using Local Storage  
+- 🌙 Dark Mode / ☀️ Light Mode toggle  
+- ➕ Load More artworks  
+- ❌ Clear search results and input  
+- 📱 Responsive and clean UI  
+
+---
+
+## 🧩 API Used
+
+- **API Name:** Art Institute of Chicago API  
+- **Base URL:**  
+
+
+
+
+
+
+
 - **Authentication:** None required  
 
 ---
@@ -74,4 +117,5 @@ This project is for educational purposes only.
 Art Institute of Chicago for providing the free public API
 
 Instructor and course materials for guidance
+
 
