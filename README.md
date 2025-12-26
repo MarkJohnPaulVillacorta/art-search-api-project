@@ -69,7 +69,7 @@ Follow the instructions below to run the project locally.
 
 1. Clone the repository:
  ```bash
- git clone https://github.com/MarkJohnPaulVillacorta/Villacorta_MarkJohnPaul_Art_Search_API.git
+git clone https://github.com/MarkJohnPaulVillacorta/art-search-api-project.git
 
 ```
 Navigate to the project folder:
@@ -122,6 +122,7 @@ This project is for educational purposes only.
 Art Institute of Chicago for providing the free public API
 
 Instructor and course materials for guidance
+
 
 
 
