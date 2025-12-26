@@ -27,3 +27,49 @@ Follow the instructions below to run the project locally.
 1. Clone the repository:
  ```bash
  git clone https://github.com/MarkJohnPaulVillacorta/Villacorta_MarkJohnPaul_Art_Search_API.git
+
+```
+Navigate to the project folder:
+
+ ```bash
+cd Villacorta_MarkJohnPaul_Art_Search_API
+
+```
+Open index.html in your browser:
+
+Double-click the file
+OR
+
+Right-click → Open with → Browser
+
+▶️ How to Use
+
+Type a keyword in the search bar (e.g., painting, portrait, art).
+
+Click the Search button.
+
+Browse the displayed artworks.
+
+Click ⭐ Add Favorite to save an artwork.
+
+View saved artworks in the Favorites section.
+
+Use 🌙 / ☀️ button to switch themes.
+
+Click Clear to reset the search.
+
+▶️ How to Use
+
+Type a keyword in the search bar (e.g., painting, portrait, art).
+
+Click the Search button.
+
+Browse the displayed artworks.
+
+Click ⭐ Add Favorite to save an artwork.
+
+View saved artworks in the Favorites section.
+
+Use 🌙 / ☀️ button to switch themes.
+
+Click Clear to reset the search.
