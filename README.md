@@ -85,6 +85,8 @@ OR
 
 Right-click → Open with → Browser
 
+---
+
 ▶️ How to Use
 
 Type a keyword in the search bar (e.g., painting, portrait, art).
@@ -120,6 +122,7 @@ This project is for educational purposes only.
 Art Institute of Chicago for providing the free public API
 
 Instructor and course materials for guidance
+
 
 
 
