@@ -1,34 +1,71 @@
-# 🎨 Art Search Web Application
-
-## 📌 Project Overview
-**Art Search** is a web-based application that allows users to search for artworks using the **Art Institute of Chicago API**.  
-The application dynamically displays artwork images and details, supports saving favorites, and includes a modern **Dark Mode / Light Mode** interface.
-
-This project demonstrates **API integration**, **DOM manipulation**, **local storage usage**, and **responsive UI design** using pure **HTML, CSS, and JavaScript**.
+- **Authentication:** None required  
 
 ---
 
-## ✨ Features
-- 🔍 Search artworks by keyword  
-- 🖼️ Display artwork images and information  
-- ⭐ Add and remove favorite artworks  
-- 💾 Favorites saved using `localStorage`  
-- 🌙 Dark Mode & ☀️ Light Mode toggle  
-- 🫧 Bubble hover effects for better UI interaction  
-- ➕ Load more results without page refresh  
-- ❌ Clear search results and input field  
-- 📱 Responsive grid layout  
+## 🛠️ Technologies Used
+
+- **HTML** – Structure of the application  
+- **CSS** – Styling and layout  
+- **JavaScript** – Fetch API, DOM manipulation, and logic  
+- **Art Institute of Chicago API** – Artwork data source  
 
 ---
 
-## 🧰 Technologies Used
-- **HTML5** – Structure  
-- **CSS3** – Styling, animations, layout  
-- **JavaScript (ES6)** – Logic and interactivity  
-- **Art Institute of Chicago API** – Artwork data  
+## 🚀 Getting Started
+
+Follow the instructions below to run the project locally.
+
+### 📌 Prerequisites
+
+- Any modern web browser (Chrome, Firefox, Edge, Safari)
+- Internet connection
 
 ---
 
-## 🔗 API Information
+## 📥 Installation
 
-**Base URL:**  
+1. Clone the repository:
+ ```bash
+ git clone https://github.com/MarkJohnPaulVillacorta/Villacorta_MarkJohnPaul_Art_Search_API.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd Villacorta_MarkJohnPaul_Art_Search_API
+Open index.html in your browser:
+
+Double-click the file
+OR
+
+Right-click → Open with → Browser
+
+▶️ How to Use
+Type a keyword in the search bar (e.g., painting, portrait, art).
+
+Click the Search button.
+
+Browse the displayed artworks.
+
+Click ⭐ Add Favorite to save an artwork.
+
+View saved artworks in the Favorites section.
+
+Use 🌙 / ☀️ button to switch themes.
+
+Click Clear to reset the search.
+
+📂 Project Structure
+pgsql
+Copy code
+📁 Art_Search_API
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+📜 License
+This project is for educational purposes only.
+
+⭐ Acknowledgment
+Art Institute of Chicago for providing the free public API
+
+Instructor and course materials for guidance
