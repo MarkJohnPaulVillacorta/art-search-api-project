@@ -100,22 +100,26 @@ View saved artworks in the Favorites section.
 Use 🌙 / ☀️ button to switch themes.
 
 Click Clear to reset the search.
+---
 
 📂 Project Structure
+
 📁 Art_Search_API
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+---
 📜 License
 
 This project is for educational purposes only.
 
+---
 ⭐ Acknowledgment
 
 Art Institute of Chicago for providing the free public API
 
 Instructor and course materials for guidance
+
 
 
