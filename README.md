@@ -58,18 +58,20 @@ Use 🌙 / ☀️ button to switch themes.
 
 Click Clear to reset the search.
 
-▶️ How to Use
+📂 Project Structure
+📁 Art_Search_API
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-Type a keyword in the search bar (e.g., painting, portrait, art).
+📜 License
 
-Click the Search button.
+This project is for educational purposes only.
 
-Browse the displayed artworks.
+⭐ Acknowledgment
 
-Click ⭐ Add Favorite to save an artwork.
+Art Institute of Chicago for providing the free public API
 
-View saved artworks in the Favorites section.
+Instructor and course materials for guidance
 
-Use 🌙 / ☀️ button to switch themes.
-
-Click Clear to reset the search.
